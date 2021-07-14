@@ -1,0 +1,124 @@
+.review-box {
+background-color:#343a40;
+height:3rem;
+}
+.company-insider{
+ display: none;
+}
+.company-wrapper:hover .company-insider{
+display: block;    
+}
+.community-insider{
+display:none;
+}
+#community-wrapper:hover .community-insider {
+display:block;
+}
+.more-insider{
+display:none;    
+position: absolute;
+}
+.more-wrapper:hover .more-insider{
+display: block;
+}
+.government-wrapper
+.workDesktop{
+position: absolute;
+margin:-10px 0 0 11rem;    
+}
+.more-wrapper li:hover{
+background-color:#6c757d;    
+}
+.more-wrapper a:hover{
+background-color:#6c757d;    
+}
+.game-insider{
+position:absolute;   
+margin-left:130px ; 
+}
+#gameInside{
+display:none;    
+}
+.gameDesk:hover #gameInside{
+display:block;
+}
+#workInside{
+display:none;    
+}
+.workDesk:hover #workInside{
+display:block;
+}
+.laptopInside{
+display: none;    
+}
+.laptop-wrapper:hover .laptopInside{
+display: block;    
+}
+.laptopInside li:hover{
+background-color: #6c757d;    
+}
+.laptopInside a:hover{
+background-color: #6c757d;    
+}
+ .render-text{
+ display: none;    
+ }
+ .under-link li:hover{
+  background-color: #6c757d;   
+ }
+ .under-link a:hover{
+  background-color: #6c757d;   
+ }
+.li-wrapper:hover .render-text{
+display: block;    
+}
+#review-wrapper li:hover{
+ background-color:#6c757d;      
+}
+#review-wrapper a:hover{
+ background-color:#6c757d;      
+}
+.under-link
+{
+display:none; 
+position:absolute;   
+z-index:10;
+}
+.gameInside{
+position: absolute;
+z-index: 10;    
+margin:-1.8rem 0 0 14.1rem ;
+display:none;
+}
+.game-wrapper:hover .gameInside{
+display:block;    
+}
+.workInside{
+display:none;   
+position:absolute; 
+margin:-4rem 0 0 13rem;
+z-index: 10;
+}
+.workLaptop:hover .workInside{
+display:block;    
+}
+.laptop-insider
+{
+margin-left:-10rem;    
+position: absolute;  
+}
+.laptop-wrapper
+{
+margin-left:5rem ;    
+}
+.desktop-link:hover .under-link 
+{
+display:block;
+}
+.review-insider{
+display: none;    
+position:absolute;
+}
+#review-wrapper:hover .review-insider{
+display: block;     
+}
